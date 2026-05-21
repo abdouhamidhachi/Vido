@@ -98,5 +98,9 @@
   {
     "id": 25,
     "embed": "<iframe src=\"https://www.xfree.com/embed/369839?utm_source=xfree&utm_medium=embed&utm_campaign=play\" allow=\"fullscreen\" frameborder=\"0\" height=\"833\" width=\"420\"></iframe>"
+  },
+  {
+    "id": 26,
+    "embed": "<iframe src=\"https://www.xfree.com/embed/298302?utm_source=xfree&utm_medium=embed&utm_campaign=play\" allow=\"fullscreen\" frameborder=\"0\" height=\"833\" width=\"420\"></iframe>"
   }
 ]
